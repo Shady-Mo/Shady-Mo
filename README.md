@@ -14,6 +14,7 @@
 - :man_technologist: I worked in `scale ai` remotly.
 - :computer: I'm a `competitive programmer` at [Codeforces](https://codeforces.com/profile/Shady_Mo), [Leetcode](https://leetcode.com/Shady_Mo/).
 - :trophy: 2x `ECPC` Finalist.
+- :boom: You can see [MY RESUME](./My_Resume.pdf).
 <br>
 
 ## Contact me
