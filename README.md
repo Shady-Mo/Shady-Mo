@@ -11,7 +11,7 @@
 <br><br>
 - :school: I'm in `3rd year` of the [Faculty of Computers & Artificial Intelligince](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :student: I'm student in `Computer Science` department.
-- :man_technologist: I worked in `scale ai` remotly.
+- :man_technologist: I worked in `scale ai` remotely.
 - :computer: I'm a `competitive programmer` at [Codeforces](https://codeforces.com/profile/Shady_Mo), [Leetcode](https://leetcode.com/Shady_Mo/).
 - :trophy: 2x `ECPC` Finalist.
 - :boom: You can see [MY RESUME](./My_Resume.pdf).
