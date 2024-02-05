@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shady Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=309AC5&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Software+Engineer;Competitive+Programmer;2x+ECPC+Finalist;Specialist+on+Codeforces;Fron-End+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=309AC5&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Software+Engineer;Competitive+Programmer;2x+ECPC+Finalist;Specialist+on+Codeforces;Front-End+Developer" alt="Typing SVG" />
 </p>
 <br>
 	
