@@ -1,19 +1,25 @@
 <h1 align="center">Hi, I'm Shady Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=309AC5&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Student;Software+Engineer;Competitive+Programmer;2x+ECPC+Finalist;Specialist+on+Codeforces;Front-End+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=309AC5&center=true&vCenter=true&width=600&height=100&lines=Computer+Science+Department;Software+Engineer;Competitive+Programmer;3x+ECPC+Finalist;Specialist+on+Codeforces" alt="Typing SVG" />
 </p>
 <br>
+
+<p align="center"> 
+	<!-- 	<a href = "https://committers.top/egypt#ORGNAME" target="_blank">
+		<img src="https://img.shields.io/badge/dynamic/json?label=Most%20Active%20GitHub%20User%20in%20Egypt&query=%24.rank&prefix=Rank%20&logo=github&style=for-the-badge&color=grey&labelColor=333&url=https://aktive.tk/rank/egypt/Shady-Mo" alt="Most Active Users" target="_blank" width=40%/> 
+	</a> -->
+	<img src="https://komarev.com/ghpvc/?username=Shady-Mo&label=Profile%20views&color=555555&labelColor=000000&style=for-the-badge" alt="Shady-Mo" width=19.40%/>
+</p>
 	
 ## About me
-
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width=30%>
 
 <br><br>
-- :school: I'm in `3rd year` of the [Faculty of Computers & Artificial Intelligince](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
+- :school: I'm in `4th year` of the [Faculty of Computers & Artificial Intelligince](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :student: I'm student in `Computer Science` department.
 - :man_technologist: I worked in `scale ai` remotely.
 - :computer: I'm a `competitive programmer` at [Codeforces](https://codeforces.com/profile/Shady_Mo), [Leetcode](https://leetcode.com/Shady_Mo/).
-- :trophy: 2x `ECPC` Finalist.
+- :trophy: 3x `ECPC` Finalist.
 - :boom: You can see [MY RESUME](./My_Resume.pdf).
 <br>
 
@@ -65,28 +71,3 @@
   &emsp;
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> 
 </p>
- 
-
-
-## Github Stats
-
-<details><summary><h3>Streak Stats</h3></summary>
-
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Shady-Mo&theme=tokyonight_duo" alt="7oSkaaa" /></p>
-
-</details>
-  
-<details><summary><h3>Github Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img alt="Shady's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Shady-Mo&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/>
-  </a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Shady-Mo&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="Shady" height="230px"/>
-<br/>
-  </p>
-</details>
