@@ -19,7 +19,7 @@
 - :student: I'm graduated from `Computer Science` department.
 - :man_technologist: I'm a `.Net` back-end developer.
 - :computer: I'm a `competitive programmer` at [Codeforces](https://codeforces.com/profile/Shady_Mo), [Leetcode](https://leetcode.com/Shady_Mo/).
-- :trophy: 3x `ECPC` Finalist.
+- :trophy: 4x `ECPC` Finalist.
 - :thinking: This is [MY RESUME](./My_Resume.pdf).
 - :boom: You can visit [MY WEBSITE](https://shady-mo.github.io/my-design-portfolio/).
 <br>
@@ -32,5 +32,6 @@
 	<a href="https://www.linkedin.com/in/shady-mohamed-122437262/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100016184046326"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
+
 
 
