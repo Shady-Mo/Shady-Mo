@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shady Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=309AC5&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;4x+ECPC+Finalist;Specialist+on+Codeforces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;4x+ECPC+Finalist;Expert+@Codeforces" alt="Typing SVG" />
 </p>
 <br>
 
@@ -32,6 +32,7 @@
 	<a href="https://www.linkedin.com/in/shady-mohamed-122437262/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/profile.php?id=100016184046326"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?style=plastic&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
+
 
 
 
