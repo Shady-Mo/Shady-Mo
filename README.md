@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Shady Mohamed <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=309AC5&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;3x+ECPC+Finalist;Specialist+on+Codeforces" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=25&pause=1000&color=0000FF&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Competitive+Programmer;4x+ECPC+Finalist;Expert+@Codeforces" alt="Typing SVG" />
 </p>
 <br>
 
@@ -19,8 +19,9 @@
 - :student: I'm graduated from `Computer Science` department.
 - :man_technologist: I'm a `.Net` back-end developer.
 - :computer: I'm a `competitive programmer` at [Codeforces](https://codeforces.com/profile/Shady_Mo), [Leetcode](https://leetcode.com/Shady_Mo/).
-- :trophy: 3x `ECPC` Finalist.
-- :boom: You can see [MY RESUME](./My_Resume.pdf).
+- :trophy: 4x `ECPC` Finalist.
+- :thinking: This is [MY RESUME](./Shady_Mohamed_Elsayed.pdf).
+- :boom: You can visit [MY WEBSITE](https://shady-mo.github.io/my-design-portfolio/).
 <br>
 
 ## Contact me
