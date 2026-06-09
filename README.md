@@ -17,7 +17,7 @@
 <br><br>
 - :school: I'm a `fresh graduate` from the [Faculty of Computers & Artificial Intelligince](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/).
 - :student: I'm graduated from `Computer Science` department.
-- :man_technologist: I'm a `.Net` back-end developer.
+- :man_technologist: I'm a full-stack developer using `.Net` and `Angular`.
 - :computer: I'm a `competitive programmer` at [Codeforces](https://codeforces.com/profile/Shady_Mo), [Leetcode](https://leetcode.com/Shady_Mo/).
 - :trophy: 4x `ECPC` Finalist.
 - :thinking: This is [MY RESUME](./Shady_Mohamed_Elsayed.pdf).
